@@ -1,4 +1,4 @@
-# W266_project_submission
+# Project to examine open text classification using deep learning
 
 ## Report
 
